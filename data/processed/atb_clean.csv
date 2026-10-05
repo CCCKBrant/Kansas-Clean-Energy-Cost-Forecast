@@ -1,456 +1,229 @@
-technology,techdetail,techdetail2,metric,parameter,parameterdetail,value,units,$year,scenario,year,atb_year,description,resourcedetail,resourcedetail2,source,notes,revision
-LandbasedWind,Class 1-7,T1,Technology,Number of turbines,,34.0,,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 8,T2,Technology,Number of turbines,,25.0,,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 9,T3,Technology,Number of turbines,,61.0,,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 9",,,,,88
-LandbasedWind,Class 10,T4,Technology,Number of turbines,,34.0,,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,All,Mkt Avg,Technology,Number of turbines, ,58.8235294117647,,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, ,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.44352,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.403460371685858,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.240220776699029,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.113378739926243,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0325199730355501,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0198833009708738,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0531832761997578,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.47641566786511,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.6204,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0528,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.377785620760395,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.224934,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.126427364613582,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0350586746343494,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0221716464938802,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0784829565295761,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.66430949237958,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.323613476957017,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.309737279132746,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.184417937888199,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0890852069830401,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.023771347524025,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0156229288105395,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0544622027761949,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.17095960941956,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.110987755102041,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.230836304745042,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.133836685714286,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0567365289393686,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0139699318625184,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0112912750367968,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0335991417680325,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.743906852515881,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.602152941176471,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0528,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.366674278973324,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.218318294117647,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.122548792815225,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0340623576770667,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0214914589167909,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0701928054954971,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0759880225462505,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.61324337890274,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.240885607969583,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0396,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.259474221478359,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.154491254634146,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0726333101642045,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0191771098561573,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0127377493121303,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0620892458366673,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0438793391352878,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.953982265571002,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.0982547425474255,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.175160339643934,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.101556292682927,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0458613004723547,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.011180816883666,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.009126969288726,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0574900424413586,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0266139622043074,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.600658893349165,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.584442560553633,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0528,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.356197871002658,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.212080628571429,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.119264064162155,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0331196281072469,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0209154139858,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0681872967670543,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0738750846998969,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.56989697503434,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.208054025633857,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0363,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.229382253635566,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.136574461821527,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0647274325324219,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0168759543405843,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0113512905766223,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0585478169113008,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0387937963641306,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.849621459000476,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.0915170382835507,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.135957436534732,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.0788268237273875,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0393043857850718,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0093001421082685,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0078220617007761,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0535477298969996,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0224024436496749,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.514092488870927,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.567253073478526,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0528,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.346303485697029,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.2061895,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.116120072285162,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0322166532865179,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0203640501517964,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0662932051901917,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0718526773332133,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.5284071446069,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.193408389171151,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.03432,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.222623669376661,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.132550392857143,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0621006063571932,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0161250764440537,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0108906224171929,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0568227473058786,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0371040615252284,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.814959992638968,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.085644094488189,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.0132,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.114509348023131,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.0663914267716536,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.0342121071562787,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0078489244109813,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0068086349079042,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.050111399198885,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0191316635719478,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,0.446872025713437,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.383887058823529,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.349213599022214,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.20792218487395,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.100198488526775,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0271305332811617,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0175718719885276,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0616109434032153,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.31778390926717,$/Wac,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.286360412019694,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.309737279132746,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.184417937888199,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0857262628562746,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0227560472974228,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0150338686652224,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0523015250098302,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.12658256221719,$/Wac,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.205105371428571,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.237465247335105,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.141387085714286,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0664165898368774,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.016919357357871,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0116475191561028,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.039880365385195,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.871470765561805,$/Wac,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.372918857142857,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.339236067621579,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.201981551020408,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0966657212581649,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0263700549260752,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0169523283694371,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0649402826352898,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0593384519883678,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.27141774214665,$/Wac,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.199584,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0396,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.210822804951167,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.125524144390244,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0619108074972855,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0159360439209674,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0108573372716892,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0620892458366673,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0369819713203285,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.812320782372815,$/Wac,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.165067967479675,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.180190431582194,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.107285593495935,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0527872988943088,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0132932822863028,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0092573418264994,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0574900424413586,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0311131740299514,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.69189955922069,$/Wac,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.364004462151394,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.331126838913493,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.197153306772908,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0945554657597743,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0257710018399393,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0165822515346863,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0633879252814582,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0579810069209168,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.24357668635904,$/Wac,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.155232,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0363,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.183505802908453,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.109259569457222,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0533653643244547,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0134415684172532,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0093587175247646,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0585478169113008,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0314850209780646,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.699510287705979,$/Wac,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.138373761884729,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.13986173591466,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.0832738409760202,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0442236458429963,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0108033246154601,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0077555286017259,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0535477298969996,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0256045099829997,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.578858504900057,$/Wac,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.364004462151394,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.331126838913493,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.197153306772908,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0945554657597743,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0257710018399393,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0165822515346863,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0633879252814582,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0579810069209168,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,1.24357668635904,$/Wac,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.155232,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0363,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.183505802908453,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.109259569457222,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0533653643244547,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0134415684172532,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0093587175247646,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0585478169113008,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0314850209780646,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.699510287705979,$/Wac,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Module,0.138373761884729,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Inverter,0.0264,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Balance of system equipment,0.13986173591466,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installation labor,0.0832738409760202,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Direct Capital Cost,Installer margin and overhead,0.0442236458429963,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,0.0108033246154601,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0077555286017259,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Land prep & transmission,0.0535477298969996,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Sales Tax,0.0256045099829997,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Total Capital Cost,Total Capital Cost,0.578858504900057,$/Wac,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Module,0.44352,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Inverter,0.044,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Balance of system equipment,0.403460371685858,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installation labor,0.240220776699029,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Direct Capital Cost,Installer margin and overhead,0.113378739926243,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,0.0325199730355501,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Engineering and developer overhead,0.0198833009708738,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Grid interconnection,0.036122,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Land prep & transmission,0.0772348021633301,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Permitting and environmental studies,0.012892427184466,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Sales Tax,0.0531832761997578,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Total Capital Cost,Total Capital Cost,1.47641566786511,$/Wac,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-LandbasedWind,,T1,Cost,CapEx,Total,1390.0,$/kW,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T2,Cost,CapEx,Total,1517.0,$/kW,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T3,Cost,CapEx,Total,1517.0,$/kW,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T4,Cost,CapEx,Total,1821.0,$/kW,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,Mkt Avg,Cost,CapEx,Total,1692.0,$/kW,2023 $,Moderate,2023.0,2025.0,2023 (base year) market avg capex,,,,,88
-LandbasedWind, ,T1,Cost,O&M,,29.42,$/kW-yr,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T2,Cost,O&M,,26.83,$/kW-yr,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T3,Cost,O&M,,38.06,$/kW-yr,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-LandbasedWind,,T4,Cost,O&M,,29.42,$/kW-yr,2023 $,Moderate,2035.0,2025.0,2035 Moderate,,,,,88
-UtilityPV,,,,Operation and Maintenance Costs,Fixed cost by capacity,24.6596729742978,$/kWac-yr,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,25.3182007002307,$/kWac-yr,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,20.7325192597404,$/kWac-yr,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,17.4471168383005,$/kWac-yr,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,24.6278411731004,$/kWac-yr,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,18.5738646485864,$/kWac-yr,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,15.2914718446969,$/kWac-yr,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,24.0123080440858,$/kWac-yr,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,17.2819727128164,$/kWac-yr,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,14.0714830474656,$/kWac-yr,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,23.4269074481935,$/kWac-yr,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,16.7718424368507,$/kWac-yr,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,13.0687521495702,$/kWac-yr,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,21.9573589830304,$/kWac-yr,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,20.405560685166,$/kWac-yr,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,18.3869746658488,$/kWac-yr,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,21.333680262848,$/kWac-yr,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,17.5301395803691,$/kWac-yr,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,15.9637094075193,$/kWac-yr,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,20.8993066780649,$/kWac-yr,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,16.175992534137,$/kWac-yr,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,14.5486622564648,$/kWac-yr,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,20.8993066780649,$/kWac-yr,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,16.175992534137,$/kWac-yr,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Operation and Maintenance Costs,Fixed cost by capacity,14.5486622564648,$/kWac-yr,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,,Operation and Maintenance Costs,Fixed cost by capacity,24.6596729742978,$/kWac-yr,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,3.0,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2060.0,2025.0,applies to both expanded and R&D,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2030.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2040.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2050.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Conservative,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Moderate,2060.0,2025.0,,,,,,88
-UtilityPV,,,R&D cost drivers,Indirect Capital Cost,Contingency,2.5,%,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Advanced,2060.0,2025.0,applies to both expanded and R&D,,,,,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Advanced,2060.0,2025.0,,,,,,88
-UtilityPV,,,Expanded cost drivers,Indirect Capital Cost,Contingency,3.0,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax Basis,100.0,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-UtilityPV,,,Technology,Indirect Capital Cost,Sales Tax,5.8,%,2023,Base,2024.0,2025.0,,,,DOE (2024),,88
-LandbasedWind,Class 1-7,T1,Technology,Turbine rating,,6.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 1-7,T1,Technology,Wind plant rating,,200.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 8,T2,Technology,Turbine rating,,8.3,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 8,T2,Technology,Wind plant rating,,200.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 9,T3,Technology,Turbine rating,,3.3,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 9,T3,Technology,Wind plant rating,,200.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 9",,,,,88
-LandbasedWind,Class 10,T4,Technology,Turbine rating,,6.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,Class 10,T4,Technology,Wind plant rating,,200.0,MW,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,All,Mkt Avg,Technology,Turbine rating, ,3.4,MW,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, , ,88
-LandbasedWind,All,Mkt Avg,Technology,Wind plant rating, ,200.0,MW,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, , ,88
-LandbasedWind,Class 1-7,T1,Technology,Specific power,,264.0,W/m2,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 8,T2,Technology,Specific power,,275.0,W/m2,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 9,T3,Technology,Specific power,,192.0,W/m2,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 9",,,,,88
-LandbasedWind,Class 10,T4,Technology,Specific power,,199.0,W/m2,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,All,Mkt Avg,Technology,Specific power, ,241.0,W/m2,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, ,,88
-LandbasedWind,Class 1-7,T1,Technology,Hub height,,115.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 1-7,T1,Technology,Rotor diameter,,170.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 1-7",,,,,88
-LandbasedWind,Class 8,T2,Technology,Hub height,,130.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 8,T2,Technology,Rotor diameter,,196.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 8",,,,,88
-LandbasedWind,Class 9,T3,Technology,Hub height,,100.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 9",,,,,88
-LandbasedWind,Class 9,T3,Technology,Rotor diameter,,148.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 9",,,,,88
-LandbasedWind,Class 10,T4,Technology,Hub height,,140.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,Class 10,T4,Technology,Rotor diameter,,196.0,m,2023 $,"Moderate, Advanced, Conservative",2035.0,2025.0,"2035-2060 Moderate, Advanced, and Conservative Turbine for Class 10",,,,,88
-LandbasedWind,All,Mkt Avg,Technology,Hub height, ,103.0,m,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, ,,88
-LandbasedWind,All,Mkt Avg,Technology,Rotor diameter, ,134.0,m,2023 $,"Moderate, Advanced, Conservative",2023.0,2025.0,"2023 (base year) mod, adv, con turbine for all classes",,, , ,88
+atb_year,technology,technology_alias,techdetail,techdetail2,display_name,scenario,core_metric_parameter,core_metric_variable,units,value
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2023,,0.433943664
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2023,$/kW-yr,43.0
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2023,$/kW,1968.0690522190712
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2024,,0.437462730222222
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2024,$/kW-yr,41.868715
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2024,$/kW,1919.900695504021
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2025,,0.440995562222222
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2025,$/kW-yr,40.73743
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2025,$/kW,1871.7323387889708
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2026,,0.44454216
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2026,$/kW-yr,39.606145
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2026,$/kW,1823.5639820739204
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2027,,0.448102523555555
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2027,$/kW-yr,38.47486
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2027,$/kW,1775.39562535887
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2028,,0.451676652888888
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2028,$/kW-yr,37.343575
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2028,$/kW,1727.2272686438198
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2029,,0.455264548
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2029,$/kW-yr,36.2122899999999
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2029,$/kW,1679.0589119287697
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2030,,0.458866208888889
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2030,$/kW-yr,35.081005
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2030,$/kW,1630.8905552137192
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2031,,0.462481635555555
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2031,$/kW-yr,33.94972
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2031,$/kW,1582.7221984986688
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2032,,0.466110828
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2032,$/kW-yr,32.818435
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2032,$/kW,1534.5538417836185
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2033,,0.469753786222222
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2033,$/kW-yr,31.68715
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2033,$/kW,1486.3854850685682
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2034,,0.473410510222222
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2034,$/kW-yr,30.5558649999999
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2034,$/kW,1438.217128353518
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2035,,0.477081
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2035,$/kW-yr,29.42458
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2035,$/kW,1390.048771638467
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2036,,0.4774836
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2036,$/kW-yr,29.1815413333333
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2036,$/kW,1373.5059052599886
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2037,,0.4778862
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2037,$/kW-yr,28.9385026666666
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2037,$/kW,1356.9630388815203
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2038,,0.4782888
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2038,$/kW-yr,28.6954639999999
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2038,$/kW,1340.4201725030412
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2039,,0.4786914
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2039,$/kW-yr,28.4524253333333
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2039,$/kW,1323.8773061245622
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2040,,0.479094
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2040,$/kW-yr,28.2093866666666
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2040,$/kW,1307.3344397460833
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2041,,0.4794966
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2041,$/kW-yr,27.966348
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2041,$/kW,1290.7915733676048
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2042,,0.4798992
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2042,$/kW-yr,27.7233093333333
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2042,$/kW,1274.2487069891365
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2043,,0.4803018
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2043,$/kW-yr,27.4802706666666
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2043,$/kW,1257.705840610657
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2044,,0.4807044
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2044,$/kW-yr,27.237232
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2044,$/kW,1241.1629742321782
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2045,,0.481107
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2045,$/kW-yr,26.9941933333333
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2045,$/kW,1224.6201078536992
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2046,,0.4815096
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2046,$/kW-yr,26.7511546666666
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2046,$/kW,1208.0772414752312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2047,,0.4819122
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2047,$/kW-yr,26.508116
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2047,$/kW,1191.5343750967522
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2048,,0.4823148
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2048,$/kW-yr,26.2650773333333
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2048,$/kW,1174.9915087182733
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2049,,0.4827174
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2049,$/kW-yr,26.0220386666666
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2049,$/kW,1158.4486423398005
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2050,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2050,$/kW-yr,25.779
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2050,$/kW,1141.9057759613238
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2051,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2051,$/kW-yr,25.6945314201858
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2051,$/kW,1138.1641583975304
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2052,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2052,$/kW-yr,25.6100628403717
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2052,$/kW,1134.422540833738
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2053,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2053,$/kW-yr,25.5255942605575
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2053,$/kW,1130.6809232699443
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2054,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2054,$/kW-yr,25.4411256807434
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2054,$/kW,1126.9393057061511
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2055,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2055,$/kW-yr,25.3566571009292
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2055,$/kW,1123.1976881423575
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2056,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2056,$/kW-yr,25.2721885211151
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2056,$/kW,1119.4560705785643
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2057,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2057,$/kW-yr,25.1877199413009
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2057,$/kW,1115.714453014772
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2058,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2058,$/kW-yr,25.1032513614868
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2058,$/kW,1111.9728354509784
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2059,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2059,$/kW-yr,25.0187827816726
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2059,$/kW,1108.231217887185
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CF,2060,,0.48312
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,Fixed O&M,2060,$/kW-yr,24.9343142018585
+2025,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Land-Based Wind - Class 4 - Technology 1,Moderate,CAPEX,2060,$/kW,1104.4896003233916
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2023,,0.260295454805666
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2023,$/kW-yr,23.133428594282368
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2023,$/kW,1672.881776339854
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2024,,0.2619205214786105
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2024,$/kW-yr,24.65967297429779
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2024,$/kW,1525.745935262591
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2025,,0.263545588151555
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2025,$/kW-yr,23.91164491305845
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2025,$/kW,1465.4923031520602
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2026,,0.2651706548244995
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2026,$/kW-yr,23.18091587030739
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2026,$/kW,1405.2386710415296
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2027,,0.2667957214974439
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2027,$/kW-yr,22.46611352167293
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2027,$/kW,1344.9850389309988
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2028,,0.2684207881703884
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2028,$/kW-yr,21.76600695792181
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2028,$/kW,1284.731406820468
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2029,,0.2700458548433329
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2029,$/kW-yr,21.079488926779486
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2029,$/kW,1224.477774709937
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2030,,0.2716709215162774
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2030,$/kW-yr,20.405560685166016
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2030,$/kW,1164.224142599406
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2031,,0.2732959881892219
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2031,$/kW-yr,20.11495888146995
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2031,$/kW,1131.747947470749
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2032,,0.2749210548621664
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2032,$/kW-yr,19.825069831017395
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2032,$/kW,1099.2717523420922
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2033,,0.2765461215351109
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2033,$/kW-yr,19.535880709032096
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2033,$/kW,1066.7955572134356
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2034,,0.2781711882080553
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2034,$/kW-yr,19.247378996583297
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2034,$/kW,1034.3193620847785
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2035,,0.2797962548809997
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2035,$/kW-yr,18.959552471522535
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2035,$/kW,1001.8431669561218
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2036,,0.2809157987622761
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2036,$/kW-yr,18.67238919974079
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2036,$/kW,969.3669718274648
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2037,,0.2820353426435525
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2037,$/kW-yr,18.385877526732912
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2037,$/kW,936.890776698808
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2038,,0.2831548865248289
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2038,$/kW-yr,18.100006069456768
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2038,$/kW,904.4145815701512
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2039,,0.2842744304061053
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2039,$/kW-yr,17.814763708475148
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2039,$/kW,871.9383864414945
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2040,,0.2853939742873816
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2040,$/kW-yr,17.530139580369116
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2040,$/kW,839.4621913128373
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2041,,0.286513518168658
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2041,$/kW-yr,17.39189489487819
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2041,$/kW,827.8042173804843
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2042,,0.2876330620499344
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2042,$/kW-yr,17.254309162154485
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2042,$/kW,816.1462434481315
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2043,,0.2887526059312108
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2043,$/kW-yr,17.117370637735107
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2043,$/kW,804.4882695157786
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2044,,0.2898721498124872
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2044,$/kW-yr,16.981067854603044
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2044,$/kW,792.8302955834258
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2045,,0.2909916936937636
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2045,$/kW-yr,16.845389615042443
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2045,$/kW,781.1723216510732
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2046,,0.29211123757504
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2046,$/kW-yr,16.710324982779124
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2046,$/kW,769.5143477187204
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2047,,0.2932307814563163
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2047,$/kW-yr,16.575863275394777
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2047,$/kW,757.8563737863677
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2048,,0.2943503253375927
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2048,$/kW-yr,16.441994057003715
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2048,$/kW,746.198399854015
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2049,,0.2954698692188691
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2049,$/kW-yr,16.308707131181745
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2049,$/kW,734.5404259216621
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2050,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2050,$/kW-yr,16.175992534136977
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2050,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2051,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2051,$/kW-yr,16.126956374836915
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2051,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2052,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2052,$/kW-yr,16.07847328846329
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2052,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2053,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2053,$/kW-yr,16.030533970424532
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2053,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2054,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2054,$/kW-yr,15.983129323678886
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2054,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2055,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2055,$/kW-yr,15.936250452979436
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2055,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2056,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2056,$/kW-yr,15.88988865930958
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2056,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2057,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2057,$/kW-yr,15.84403543450164
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2057,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2058,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2058,$/kW-yr,15.798682456031566
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2058,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2059,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2059,$/kW-yr,15.753821581983113
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2059,$/kW,722.8824519893088
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CF,2060,,0.2965894131001456
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,Fixed O&M,2060,$/kW-yr,15.709444846175044
+2025,UtilityPV,Utility PV,Class5,Tracking PV,Utility PV - Class 5,Moderate,CAPEX,2060,$/kW,722.8824519893088
