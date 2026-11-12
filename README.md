@@ -15,6 +15,8 @@ https://www.eia.gov/electricity/data.php
 Annual Technology Baseline - National Laboratory of the Rockies:
 https://atb.nlr.gov/electricity/2025/data?
 
+IMPORTANT NOTE: The full 2025 ATB Dataset exceeds GitHub's file-size limit, so this repository includes a project-specific ATB subset containing only Land-Based Wind and Utility-Scale Solar data needed for this analysis. 
+
 ## Environment Setup
 Clone the repository and navigate into the project folder:
 git clone https://github.com/CCCKBrant/Kansas-Clean-Energy-Cost-Forecast.git cd Kansas-Clean-Energy-Cost-Forecast
