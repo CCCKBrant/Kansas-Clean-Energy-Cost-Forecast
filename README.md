@@ -48,7 +48,7 @@ Kansas-Clean-Energy-Cost-Forecast/
 The EIA dataset provided historical information over monthly electricity data for multiple states. The dataset was already well cleaned, and I filtered the dataset to only use Kansas data and electricity sales measured in Megawatt Hours as the measure for electricity demand. I then used the past 15 years of monthly data converted into a datetime format, and sorted observations chronologically to create engineered features to make my refined linear regression model.
 
 ## ATB Wind and Solar Data
-The ATB (Annual Technology Baseline) dataset contained information covering technology and cost information. Because the data has many technological parameters, the data had many missing values due to specifications for that technology. I filtered to include information regarding Land Based Wind and Utility Based Solar Energy. I used capacity factor, capital expenditure (CAPEX), and fixed operating & maintenance costs for performance variables. I then reshaped the dataset so that each technology and year had one row containing its capacity factor, CAPEX, and fixed O&M.
+The ATB (Annual Technology Baseline) dataset contained information covering technology and cost information. Because the data has many technological parameters, the data had many missing values due to specifications for that technology. I filtered to include information regarding Land-Based Wind and Utility-Scale Solar Energy. I used capacity factor, capital expenditure (CAPEX), and fixed operating & maintenance costs for performance variables. I then reshaped the dataset so that each technology and year had one row containing its capacity factor, CAPEX, and fixed O&M.
 
 All datasets were then stored in the data/processed/ folder so I could use them for forecasting and my cost model.
 
@@ -62,6 +62,8 @@ The baseline linear regression model when compared to a random forest regressor 
 
 ## Cost Estimation
 I took the forecasted monthly demand data that I got from my model, grouped the monthly data into annual data, and combined it with the ATB Wind and Solar data to estimate cost to meed demand using Wind and Solar data. I did this by using capacity factor to calculate how much installed generation capacity would be required to meet electricity demand, then combined that value with CAPEX and Fixed O&M values to estimate the first-year costs of meeting that electricity demand. Wind and Solar energy was modeled seperate from eachother to compare the required capacity and costs for Wind and Solar.
+
+Important to note: Each year is its own independent scenario. That means that Kansas is not spending a certain amount in 2027, then adding to that amount in 2028, those are seperate totals and is not cumulative. 
 
 ## Sensitivity Analysis
 I then conducted a sensitivity analysis using the 2031 land based wind cost estimation. The goal was to see if an increase or decrease in our assumptions affected estimated cost, and which affected cost the most. Electricity demand, capacity factor, CAPEX, and Fixed O&M were each increased and decreased by 10% while other varibales remained unchanged.
