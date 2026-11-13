@@ -4,10 +4,10 @@
 This project I am estimating electricity demand in Kansas over the next five years and estimating the cost of meeting that demand only using wind and solar power. I am using historical data to build a linear regression model that forecasts demand over the next five years. This will help stakeholders see what the electricity demand is in Kansas for the next five years, how much it would cost to replace that demand with renewable energy, and then evaluate the trade-offs involved in future  clean energy projects.
 
 ## Research Questions
-1. What will electricity demand in Kansas be over the next five year?
+1. What will electricity demand in Kansas be over the next five years?
 2. How much wind or solar capacity would be required to meet that demand?
-3. What would it cost to meet the forecasted demand using only land-based wind or utiility-scale solar?
-4. Which assumptions have the greates effect on the estimated cost? (Sensitivity Analysis)
+3. What would it cost to meet the forecasted demand using only Land-Based wind or Utiility-Scale solar?
+4. Which assumptions have the greatest effect on the estimated cost? (Sensitivity Analysis)
 
 ## Data Sources
 U.S Energy Information Administration:
